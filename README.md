@@ -11,7 +11,7 @@ jar file from the [Releases page](https://github.com/cdbbnnyCode/ftc_utils/relea
 1. Copy the jar file into the `jniLibs` folder under TeamCode
 2. Add the following line to the end of the dependencies of the `build.release.gradle` for TeamCode and FtcRobotController:
 ```gradle
-compile (name: 'FtcUtils-release', ext: 'jar')
+implementation (name: 'FtcUtils-release', ext: 'aar')
 ```
 
 ## Contributing
