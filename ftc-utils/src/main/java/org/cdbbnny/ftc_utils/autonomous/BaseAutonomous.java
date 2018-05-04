@@ -3,14 +3,10 @@ package org.cdbbnny.ftc_utils.autonomous;
 //Guys, you should read ALL the comments! They contain some useful observations about the software!
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
-import org.firstinspires.ftc.teamcode.autonomous.tasks.Task;
-import org.firstinspires.ftc.teamcode.util.Config;
-import org.firstinspires.ftc.teamcode.autonomous.util.telemetry.TelemetryWrapper;
-import org.firstinspires.ftc.teamcode.autonomous.util.opencv.CameraStream;
-import org.firstinspires.ftc.teamcode.util.Logger;
-import org.firstinspires.ftc.teamcode.util.Persistent;
-import org.firstinspires.ftc.teamcode.util.Utils;
-import org.opencv.android.OpenCVLoader;
+import org.cdbbnny.ftc_utils.Config;
+import org.cdbbnny.ftc_utils.Logger;
+import org.cdbbnny.ftc_utils.Persistent;
+import org.cdbbnny.ftc_utils.autonomous.tasks.Task;
 
 import java.io.File;
 import java.io.IOException;
@@ -23,11 +19,7 @@ import java.util.Locale;
 /**
  * Base autonomous OpMode. Sub-OpModes that are going to be used for the games must extend this.
  *
- * ## Ideas ##
- *   * Have a number of OpModes and then use some selector switches on the robot for different run
- *     modes (i.e. Red/Blue and 1 Jewel/2 Jewels)
- *
- * ## New Programmers ##
+ * ## Tip ##
  *   * If you have any sub-methods in your OpModes/Tasks that you expect to wait or run for a long
  *     time (>0.1 second), please declare them as 'throws InterruptedException'. If you're not sure,
  *     just make it throw InterruptedException. This makes it so that if the robot tries to stop
@@ -57,12 +49,6 @@ import java.util.Locale;
 // @Autonomous(name = "Autonomous")
 public abstract class BaseAutonomous extends LinearOpMode {
 
-    static {
-        if (!OpenCVLoader.initDebug()) {
-            System.exit(0);
-        }
-    }
-
     //Queue of tasks to run
     protected final List<Task> tasks = new ArrayList<>();
     //We're making BaseAutonomous a 'singleton' class. This means that there is always only ONE
@@ -70,8 +56,6 @@ public abstract class BaseAutonomous extends LinearOpMode {
     //other code without having to pass an instance to all of the methods that want to use it.
     private static BaseAutonomous instance;
 
-
-    private CameraStream stream;
     public Config config;
 
     /**
@@ -84,12 +68,6 @@ public abstract class BaseAutonomous extends LinearOpMode {
     }
     public static final boolean instantated() {
         return instance != null;
-    }
-
-    public final CameraStream getCameraStream() {
-        if (stream == null)
-            stream = new CameraStream();
-        return stream;
     }
 
 
@@ -123,8 +101,6 @@ public abstract class BaseAutonomous extends LinearOpMode {
             //Clear the persistent objects since this would be a new round in competition
             Persistent.clear();
 
-            TelemetryWrapper.init(telemetry, 0);
-
             //Set the current instance
             instance = this;
 
@@ -149,15 +125,11 @@ public abstract class BaseAutonomous extends LinearOpMode {
         } finally {
             finish();
             instance = null;
-            if (stream != null) {
-                stream.stop();
-                stream = null;
-            }
             if (exc != null) {
                 //We can't just throw any Throwables; we need to throw either unchecked exceptions
                 //(RuntimeException and Error) or InterruptedException, which it is declared to be
                 //able to throw.
-                log.e(exc);
+                if (log != null) log.e(exc);
                 if (exc instanceof Error) throw (Error)exc;
                 else if (exc instanceof RuntimeException) throw (RuntimeException)exc;
                 else if (exc instanceof IOException) log.e(exc);

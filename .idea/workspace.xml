@@ -2,438 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d2f14d9-e64e-4121-a0a2-3228c6807b45" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/build.release.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/assets/FTC_2016-17.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/assets/FTC_2016-17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/assets/RelicVuMark.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/assets/RelicVuMark.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/assets/StonesAndChips.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/assets/StonesAndChips.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Iterative.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptCompassCalibration.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptDIMAsIndicator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptI2cAddressChange.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptNullOp.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRampMotorSpeed.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRegisterOpModes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptScanServo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTelemetry.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuMarkIdentification.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuforiaNavigation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/HardwareK9bot.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/HardwarePushbot.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/HardwarePushbotMatrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/K9botTeleopTank_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByEncoder_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByGyro_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByTime_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveToLine_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotTeleopPOV_Linear.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotTeleopTank_Iterative.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitRGB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMU.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMUCalibration.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorColor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorDIO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorDigitalTouch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorHTColor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorHTGyro.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorKLNavxMicro.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorLEGOLight.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorLEGOTouch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRColor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRCompass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRIrSeeker.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMROpticalDistance.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRRangeSensor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorREVColorDistance.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/sample_conventions.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-xhdpi/icon_robotcontroller.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values-sw600dp/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values-w820dp/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/values/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/xml/app_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/res/xml/device_filter.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TeamCode/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TeamCode/build.release.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TeamCode/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TeamCode/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.common.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/apk/FtcDriverStation-release.apk" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/apk/FtcRobotController-release.apk" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/allclasses-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/allclasses-noframe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/AboutActivity.Item.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/AboutActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ClassManagerFactory.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.LynxAddressChangeRequest.AddressChange.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.LynxAddressChangeRequest.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.LynxFirmwareImagesResp.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.LynxFirmwareUpdate.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.LynxFirmwareUpdateResp.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.USBAccessibleLynxModulesRequest.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.USBAccessibleLynxModulesResp.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/CommandList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ConfigWifiDirectActivity.Flag.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ConfigWifiDirectActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcAdvancedRCSettingsActivity.SettingsFragment.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcAdvancedRCSettingsActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoop.DefaultUsbModuleAttachmentHandler.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoop.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopBase.LynxUsbDeviceContainer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopBase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopHandler.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcEventLoopIdle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxFirmwareUpdateActivity.ReceiveLoopCallback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxFirmwareUpdateActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxModuleAddressUpdateActivity.AddressAndDisplayName.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxModuleAddressUpdateActivity.AddressConfiguration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxModuleAddressUpdateActivity.DisplayedModule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxModuleAddressUpdateActivity.DisplayedModuleList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxModuleAddressUpdateActivity.ReceiveLoopCallback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcLynxModuleAddressUpdateActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerService.FtcRobotControllerBinder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerService.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerSettingsActivity.SettingsFragment.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcRobotControllerSettingsActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcWifiDirectChannelSelectorActivity.WifiChannelItemAdapter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcWifiDirectChannelSelectorActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcWifiDirectRememberedGroupsActivity.RecvLoopCallback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcWifiDirectRememberedGroupsActivity.WifiP2pGroupItemAdapter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/FtcWifiDirectRememberedGroupsActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/LaunchActivityConstantsList.RequestCode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/LaunchActivityConstantsList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ProgrammingModeController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/Restarter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/SoundPlayer.LoadedSoundCache.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/SoundPlayer.SoundInfo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/SoundPlayer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/USBAccessibleLynxModule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UpdateUI.Callback.DeviceNameManagerCallback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UpdateUI.Callback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UpdateUI.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/UsbModuleAttachmentHandler.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/ViewLogsActivity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/ftccommon/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/EventLoop.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/EventLoopManager.EventLoopMonitor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/EventLoopManager.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/SyncdDevice.ShutdownReason.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/SyncdDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/AnnotatedOpModeManager.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/AnnotatedOpModeRegistrar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/Autonomous.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/Disabled.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/EventLoopManagerClient.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/FtcRobotControllerServiceState.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/LinearOpMode.LinearOpModeHelper.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/LinearOpMode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpMode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManager.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerNotifier.Notifications.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeManagerNotifier.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeRegister.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/OpModeRegistrar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/TeleOp.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/opmode/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/eventloop/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/DuplicateNameException.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/RobotCoreException.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/exception/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AccelerationSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogInput.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogInputController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogOutput.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogOutputController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/AnalogSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Blinker.Step.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Blinker.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CRServo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CRServoImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CRServoImplEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ColorSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CompassSensor.CompassMode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/CompassSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotor.RunMode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotor.ZeroPowerBehavior.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorControllerEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorImplEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorSimple.Direction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DcMotorSimple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DeviceInterfaceModule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DeviceManager.DeviceType.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DeviceManager.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannel.Mode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannel.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannelController.Mode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannelController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DigitalChannelImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/DistanceSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Engagable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Gamepad.GamepadCallback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Gamepad.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/GyroSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Gyroscope.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDevice.Manufacturer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDeviceCloseOnTearDown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDeviceHealth.HealthStatus.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDeviceHealth.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareDeviceHealthImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareMap.DeviceMapping.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/HardwareMap.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cAddr.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cAddrConfig.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cAddressableDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cController.I2cPortReadyBeginEndNotifications.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cController.I2cPortReadyCallback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cControllerPortDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cControllerPortDeviceImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceReader.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.HeartbeatAction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.ReadMode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.ReadWindow.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynch.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchDeviceWithParameters.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.CONTROLLER_PORT_MODE.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.Callback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.READ_CACHE_STATUS.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.WRITE_CACHE_STATUS.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.WriteCacheStatus.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchImplOnSimple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchReadHistory.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchReadHistoryImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cDeviceSynchSimple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/I2cWaitControl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IntegratingGyroscope.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IrSeekerSensor.IrSeekerIndividualSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IrSeekerSensor.Mode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/IrSeekerSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LegacyModule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LegacyModulePortDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LegacyModulePortDeviceImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Light.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LightBlinker.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LightMultiplexor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LightSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LynxModuleMeta.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/LynxModuleMetaList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/NormalizedColorSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/NormalizedRGBA.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/OpticalDistanceSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/OrientationSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PIDCoefficients.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutput.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputControllerEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PWMOutputImplEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PwmControl.PwmRange.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/PwmControl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/RobotConfigNameable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/RobotCoreLynxModule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/RobotCoreLynxUsbDevice.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Servo.Direction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/Servo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoController.PwmStatus.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoController.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoControllerEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoImpl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/ServoImplEx.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/SwitchableLight.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/TimestampedData.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/TimestampedI2cData.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/TouchSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/TouchSensorMultiplexer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/UltrasonicSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/VoltageSensor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/hardware/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/ElapsedTime.Resolution.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/ElapsedTime.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/Range.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/SerialNumber.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/TypeConversion.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/com/qualcomm/robotcore/util/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/constant-values.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/deprecated-list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/help-doc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/index-all.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/ClassFactory.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Const.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Consumer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Func.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/NonConst.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Predicate.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Supplier.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Item.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Line.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Log.DisplayOrder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.Log.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/Telemetry.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/ThrowingCallable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/ColumnMajorMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/ColumnMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/DenseMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/GeneralMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/MatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/OpenGLMatrix.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/RowMajorMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/RowMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/SliceMatrixF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/VectorF.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/matrices/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Acceleration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AngleUnit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AngularVelocity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AxesOrder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/AxesReference.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Axis.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/DistanceUnit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/MagneticFlux.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/NavUtil.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Orientation.AngleSet.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Orientation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Position.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Quaternion.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/RelicRecoveryVuMark.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Rotation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/TempUnit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Temperature.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/UnnormalizedAngleUnit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/Velocity.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuMarkInstanceId.Type.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuMarkInstanceId.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.CameraDirection.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.CloseableFrame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.Parameters.CameraMonitorFeedback.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.Parameters.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaLocalizer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackable.Listener.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackableDefaultListener.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/VuforiaTrackables.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/navigation/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/package-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/package-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/org/firstinspires/ftc/robotcore/external/package-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/overview-frame.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/overview-summary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/overview-tree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/package-list" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/serialized-form.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/javadoc/stylesheet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/legal/AudioBlocksSounds.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/legal/Exhibit A - LEGO Open Source License Agreement.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/legal/LEGO Open Source License.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/PullRequest.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/chips.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/stones.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_chips_A4.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_chips_USLetter.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_stones_A4.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/media/target_stones_USLetter.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/doc/tutorial/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Analytics-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Blocks-release-sources.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Blocks-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/FtcCommon-release-sources.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/FtcCommon-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Hardware-release-sources.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Hardware-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Inspection-release-sources.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Inspection-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/RobotCore-release-sources.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/RobotCore-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/Vuforia.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/WirelessP2p-release.aar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libVuforia.so" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/libs/ftc.debug.keystore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ftc-utils/build.release.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Config.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Logger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Persistent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/tasks/Task.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/ftc-utils/build.gradle" afterPath="$PROJECT_DIR$/ftc-utils/build.gradle" />
       <change beforePath="$PROJECT_DIR$/ftc-utils/ftc-utils.iml" afterPath="$PROJECT_DIR$/ftc-utils/ftc-utils.iml" />
+      <change beforePath="$PROJECT_DIR$/ftc-utils/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ftc-utils/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java" afterPath="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -459,18 +50,31 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ftc-utils/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FtcRobotController/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -479,8 +83,8 @@
       <file leaf-file-name="BaseAutonomous.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="1087">
+              <caret line="125" column="21" lean-forward="true" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -3644,11 +3248,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="packageReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="mergeReleaseConsumerProguardFiles" />
+                <option name="name" value="bundleAppClassesRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3656,7 +3256,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformNativeLibsWithSyncJniLibsForRelease" />
+                <option name="name" value="transformClassesWithDexBuilderForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3664,12 +3264,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformClassesAndResourcesWithPrepareIntermediateJarsForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a bundle containing the library in debug." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="bundleDebug" />
+                <option name="name" value="bundleReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3685,9 +3280,8 @@
                 <option name="name" value="lintDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles a bundle containing the library in release." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="bundleRelease" />
+                <option name="name" value="preparePUBLISHED_JAVA_RESReleaseForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3696,6 +3290,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="createReleaseCompatibleScreenManifests" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
@@ -3708,6 +3306,14 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="preparePUBLISHED_DEXReleaseForPublishing" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="bundleAppClassesDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':ftc-utils'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="tasks" />
@@ -3715,14 +3321,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="compileDebugSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformClassesAndResourcesWithPrepareIntermediateJarsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="packageReleaseRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3734,13 +3332,13 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformNativeLibsWithIntermediateJniLibsForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':ftc-utils'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="processDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3753,11 +3351,23 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="packageDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="transformClassesWithDexBuilderForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="compileReleaseNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="bundleAppClassesReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3789,10 +3399,6 @@
                 <option name="description" value="Deletes the build cache directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="cleanBuildCache" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="assembleDefault" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3841,11 +3447,6 @@
                 <option name="name" value="preDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="extractDebugAnnotations" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="processDebugAndroidTestJavaRes" />
               </ExternalTaskPojo>
@@ -3859,11 +3460,24 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="javaPreCompileDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForRelease" />
+                <option name="name" value="splitsDiscoveryTaskDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="bundleAppClassesDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="uninstallRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3875,15 +3489,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformNativeLibsWithIntermediateJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="generateDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3895,19 +3501,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="verifyReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="packageDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="transformNativeLibsWithSyncJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="createDebugCompatibleScreenManifests" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="preparePUBLISHED_NATIVE_LIBSReleaseForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3918,6 +3520,10 @@
                 <option name="name" value="prepareLintJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="deviceAndroidTest" />
@@ -3925,6 +3531,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="preparePUBLISHED_NATIVE_LIBSDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -3946,20 +3556,20 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="transformDexArchiveWithDexMergerForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="writeDebugApplicationId" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all variants of all applications and secondary packages." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="createFullJarDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="generateReleaseRFile" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -3977,7 +3587,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="packageReleaseAssets" />
+                <option name="name" value="mainApkListPersistenceDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -4000,6 +3610,10 @@
                 <option name="name" value="javaPreCompileRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="splitsDiscoveryTaskRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="connectedCheck" />
@@ -4008,6 +3622,10 @@
                 <option name="description" value="Installs and runs the tests for debug on connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="connectedDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="transformDexArchiveWithDexMergerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstall all applications." />
@@ -4025,16 +3643,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="packageDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="processDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="extractReleaseAnnotations" />
+                <option name="name" value="preparePUBLISHED_DEXDebugForPublishing" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="validateSigningDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -4055,6 +3676,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="mainApkListPersistenceRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -4100,6 +3725,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="preparePUBLISHED_JAVA_RESDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -4166,6 +3795,11 @@
                 <option name="name" value="connectedAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Installs the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="installDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="preBuild" />
               </ExternalTaskPojo>
@@ -4192,10 +3826,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="compileReleaseAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="generateDebugRFile" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on the Release build." />
@@ -4244,19 +3874,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="bundleDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="mergeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="createFullJarRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="compileDebugRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="packageDebugRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -4271,8 +3897,18 @@
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="lintVitalRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="platformAttrExtractor" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="uninstallDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
@@ -4288,6 +3924,10 @@
                 <option name="name" value="mergeDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="bundleAppClassesDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="clean" />
@@ -4299,6 +3939,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
@@ -4316,10 +3960,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
-                <option name="name" value="mergeDebugConsumerProguardFiles" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="compileDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -4329,6 +3969,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
                 <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
+                <option name="name" value="writeReleaseApplicationId" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/ftc-utils" />
@@ -5497,9 +5141,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/ftc-utils/build.gradle" />
+        <option value="$PROJECT_DIR$/ftc-utils/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/tasks/Task.java" />
+        <option value="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Config.java" />
+        <option value="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java" />
       </list>
     </option>
   </component>
@@ -5542,6 +5189,21 @@
               <item name="ftc-utils" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="ftc_utils" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_utils" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ftc-utils" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ftc_utils" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="autonomous" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftc_utils" type="1abcf292:AndroidViewProjectNode" />
+              <item name="FtcRobotController" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="ftc_utils" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
             </path>
             <path>
               <item name="ftc_utils" type="1abcf292:AndroidViewProjectNode" />
@@ -5591,11 +5253,15 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="android.project.structure.last.selected" value="openCVLibrary330" />
+    <property name="android.project.structure.last.selected" value="ftc-utils" />
     <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils" />
+      <recent name="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/tasks" />
+      <recent name="$PROJECT_DIR$/ftc-utils" />
+      <recent name="$PROJECT_DIR$/TeamCode" />
       <recent name="$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous" />
     </key>
   </component>
@@ -5893,8 +5559,8 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -5942,16 +5608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -5960,18 +5616,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ftc-utils/build.gradle">
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FtcRobotController/build.gradle">
+    <entry file="file://$PROJECT_DIR$/ftc-utils/build.release.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/tasks/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/Persistent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/java/org/cdbbnny/ftc_utils/autonomous/BaseAutonomous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1087">
+          <caret line="125" column="21" lean-forward="true" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftc-utils/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
